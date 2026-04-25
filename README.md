@@ -111,12 +111,12 @@ This separation prevents interference between high‑current servo operations an
 ---
 
 ##  Achievements
-- 🥇 **1st Place – Robotivia Hackathon Competition**
+-  **1st Place – Robotivia Hackathon Competition**
 - Successfully demonstrated a fully functional competition‑grade robot
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 - AI‑based vision system (camera + ML)
 - Enhanced power efficiency
 - Wi‑Fi connectivity
@@ -125,7 +125,7 @@ This separation prevents interference between high‑current servo operations an
 
 ---
 
-## 👥 Team
+##  Team
 **SOUL Team**
 - **Moataz Rafik Hamdy** – Project Manager & Documentation &Electronics  
 - **Omar Ayman Mohamed** – Software & Control Systems  
@@ -134,4 +134,4 @@ This separation prevents interference between high‑current servo operations an
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository and reach out!
+ If you find this project interesting, feel free to explore the repository and reach out!
