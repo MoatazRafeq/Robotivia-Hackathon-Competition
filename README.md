@@ -127,7 +127,7 @@ This separation prevents interference between high‑current servo operations an
 
 ##  Team
 **SOUL Team**
-- **Moataz Rafik Hamdy** – Project Manager & Documentation &Electronics  
+- **Moataz Rafik Hamdy** – Project Manager & Documentation &Power Management
 - **Omar Ayman Mohamed** – Software & Control Systems  
 - **Adham Abd El‑Fattah** – Electronics & Hardware  
 - **Hazem Abd El‑Fattah** – Mechanical Design & Testing  
